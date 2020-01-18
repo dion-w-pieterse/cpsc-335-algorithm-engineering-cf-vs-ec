@@ -1,4 +1,4 @@
-# CPSC 335 - Project 3: Constant Factor &amp; Efficiency Class
+# CPSC 335 - Project 3: Constant Factor vs Efficiency Class
 
 ### Team
 - Dion W. Pieterse
