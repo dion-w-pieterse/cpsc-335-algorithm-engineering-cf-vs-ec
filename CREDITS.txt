@@ -1,0 +1,9 @@
+
+This repository includes two files from other sources:
+
+1) json.hpp is the JSON for Modern C++ library
+   (https://github.com/nlohmann/json), by Niels Lohmann, MIT license
+
+2) warandpeace.json is derived from the Project Gutenberg EBook of War
+   and Peace (http://www.gutenberg.org/ebooks/2600), by Leo Tolstoy,
+   Project Gutenberg License

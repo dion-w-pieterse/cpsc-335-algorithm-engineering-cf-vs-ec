@@ -1,1 +1,5 @@
-# cpsc-335-algorithm-engineering-cf-vs-ec
+# CPSC 335 - Project 3: Constant Factor &amp; Efficiency Class
+
+### Team
+- Dion W. Pieterse
+- Michael Lindwall
